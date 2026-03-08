@@ -27,7 +27,7 @@ A lightweight **Unity Editor** tool that automatically scans your C# scripts for
 2. Click the **+** button → *Add package from git URL…*
 3. Enter:
    ```
-   https://github.com/your-username/TodoInspector.git?path=Assets/TodoInspector
+   https://github.com/qapitall/TodoInspector.git?path=Assets/TodoInspector
    ```
 
 ### Option B — Manual
