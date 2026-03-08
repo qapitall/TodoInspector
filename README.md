@@ -95,6 +95,10 @@ Write TODO comments in any of the following formats inside your C# scripts:
 | `LOW`      | 🟢 Green       |
 | *(none)*   | ⚫ Gray        |
 
+### Screenshot
+
+![TodoInspector Window](Assets/TodoInspector/docs/images/todo-inspector-window.png)
+
 ---
 
 ## Project Structure
