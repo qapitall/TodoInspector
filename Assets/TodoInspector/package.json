@@ -1,0 +1,12 @@
+{
+  "name": "com.qapitall.todoinspector",
+  "version": "1.0.0",
+  "displayName": "Todo Inspector",
+  "description": " A simple Unity Editor tool that finds and lists all TODO comments in your C# scripts.",
+  "unity": "2021.3",
+  "author": {
+    "name": "qapitall",
+    "email": "contact.sercancengiz@gmail.com",
+    "url": "https://github.com/qapitall"
+  }
+}
