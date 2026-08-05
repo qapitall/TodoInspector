@@ -8,6 +8,23 @@ A lightweight **Unity Editor** tool that automatically scans your C# scripts for
 
 ---
 
+> ### 🚀 Todo Inspector **Pro** — coming to the Unity Asset Store
+>
+> This repository is the **free, MIT-licensed Lite edition**, feature-frozen at `v1.0.0`.
+>
+> **Pro** turns the same window into a *shared task layer between AI coding agents and your team*:
+>
+> - 🤖 **Structured, agent-writable TODOs** — a format AI agents emit and the tool round-trips, with origin, timestamp, related files, and state
+> - 📄 **JSON sidecar store** — agents write tasks to a plain file; the window merges them with in-code TODOs
+> - ↩️ **Editor → agent tasks** — assign work to an AI agent from inside Unity
+> - ⚙️ **Rule-file generation** — auto-writes the format block into `CLAUDE.md` / `AGENTS.md` / `.cursorrules`, zero setup for agents
+> - 👥 **Git attribution** — `git blame` TODO ownership, branch-scoped filters, "added this sprint" views
+> - 🎨 **UI Toolkit rewrite** — modern Unity 6 editor UI
+>
+> ⭐ Star this repo to get notified when Pro ships.
+
+---
+
 ## Features
 
 - 🔍 **Automatic scanning** — scans all `.cs` files in your Assets folder on startup and keeps results up-to-date as you save or import scripts
